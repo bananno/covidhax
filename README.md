@@ -11,8 +11,7 @@ This is a widget based application that allows the user to see information that 
 
 ## Startup Instructions
 * From the application's root directory:
-  * `npm run start:client`
-  * `npm run start:server`
+  * `npm start`
 
 ## Widget Ideas
 * Information about vetted charities to help healthcare personel, hospitals, and those who are volunarible.
